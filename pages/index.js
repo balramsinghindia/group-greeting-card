@@ -8,7 +8,7 @@ const CardCreation = () => {
             <form 
                 name="create-card" 
                 method="POST" 
-                // data-netlify="true"
+                data-netlify="true"
                 action="/Success"
                 // netlify-honeypot="bot-field"
             >
