@@ -8,9 +8,9 @@ const CardCreation = () => {
             <form 
                 name="create-card" 
                 method="POST" 
-                data-netlify="true"
+                // data-netlify="true"
                 action="/Success"
-                netlify-honeypot="bot-field"
+                // netlify-honeypot="bot-field"
             >
                 <input type="hidden" name="form-name" value="create-card" />
                 
